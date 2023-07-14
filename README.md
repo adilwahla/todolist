@@ -46,7 +46,7 @@ npm start
 
 2. Open a web browser and visit `http://localhost:3000` (or the port number you configured) to access the TodoList application.
 
-## Features
+## Features required in future release
 
 - Create a new task with a title and description.
 - View all tasks in the todo list.
