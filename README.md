@@ -76,3 +76,6 @@ The following packages are used in this application:
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to use, modify, and distribute the code as per the license terms.
+
+
+![Screenshot (1)](https://github.com/adilwahla/todolist/assets/48839911/18fa8511-d12d-4204-8d2b-a57b1d6460cb)
