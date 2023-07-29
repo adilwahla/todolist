@@ -21,7 +21,7 @@ const defaultItems = [
   { name: "Hit the + button to add a new item" },
   { name: "<-- check the box to delete the item" },
 ];
-//Item.insertMany(defaultItems);
+// Item.insertMany(defaultItems);
 const listSchema = {
   name: String,
   items: [itemsSchema],
